@@ -1,0 +1,15 @@
+
+# artikoloj ĉe USGS (U.S. Geological Survey)
+pri grundakvo: 
+  - https://www.usgs.gov/search?keywords=Groundwater,%20Aquifers,%20Wells,%20and%20Springs
+  - https://www.usgs.gov/search?keywords=Groundwater/Surface-Water%20Interactions
+pri vaporiĝo: https://www.usgs.gov/search?keywords=Evapotranspiration
+
+# modelado de grundakvo
+FloPy: https://github.com/modflowpy/flopy
+MODFLOW: https://github.com/modflowpy/flopy/blob/develop/docs/mf6.md
+ekzemploj: https://modflow6-examples.readthedocs.io/en/latest/
+
+# Germanujo - grundakvo-mapo
+- https://correctiv.org/aktuelles/kampf-um-wasser/2022/10/25/klimawandel-grundwasser-in-deutschland-sinkt/#tool
+- App "Grundwasser sichtbar machen" https://www.ecologic.eu/de/18552
